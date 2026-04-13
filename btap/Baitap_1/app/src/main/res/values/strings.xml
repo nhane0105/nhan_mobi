@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Baitap_1</string>
+    <string name="checking">Đang kiểm tra…</string>
+    <string name="no_network">❌ Không có kết nối mạng</string>
+    <string name="connected_success">✅ Kết nối thành công đến Google</string>
+    <string name="cannot_connect">⚠️ Không thể kết nối đến Google</string>
+</resources>
